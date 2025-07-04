@@ -1,0 +1,7 @@
+{
+  "name": "AutoFast Time Attendance",
+  "description": "An elegant, minimalist, and fast time attendance system for employees to clock in and out effortlessly. It provides a clean interface with real-time status updates and an activity log.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
